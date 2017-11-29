@@ -33,6 +33,6 @@ To find your docker id go to [docker.com](https://www.docker.com/) and sign in. 
 
 ![Signed in on Docker.com]({{ site.baseurl }}/assets/images/20171129/dockercom_signedin.png "Signed in on Docker.com")
 
-Go back to the commandline, signing in with your docker id & password with the command `docker login` and start pulling those images!
+Go back to the commandline, sign in with your docker id & password with the command `docker login` and start pulling those images!
 ![Pulling the docker image]({{ site.baseurl }}/assets/images/20171129/docker_commandline_success.png "Pulling the docker image")
 
