@@ -15,4 +15,4 @@ Currently I am more and more focussing on CICD (Continious Integration - Contini
 
 Since 2017 I am working remotely from around the world, currently I am in Cape Town, South Africa.
 
-In my spare time I to travel, play with my 2 kids, obstacle-, mud- run, hike and love to geek out on my smoker and bbq.
+In my spare time I love to travel, play with my 2 kids, obstacle-, mud- run, hike and love to geek out on my smoker and bbq.
