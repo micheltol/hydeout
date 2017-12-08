@@ -19,6 +19,8 @@ When you get your replacement by post, the first thing you have to do is binding
 
 The 2 youtube videos below are the settings I am using - with these settings I got some really nice cinematic shots!
 
+Which settings do you use? Any other suggestions? Please drop a line in the comments!
+
 ## The Best Mavic Pro Camera Settings
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/lxBsq_iwQoE?list=PLfgL-0qmPGeFrnzsyT4ZrooiG9wAfnbnd" frameborder="0" allowfullscreen></iframe>
@@ -28,22 +30,4 @@ The 2 youtube videos below are the settings I am using - with these settings I g
 <div class="embed-responsive embed-responsive-16by9">
   <iframe width="640" height="360" src="https://www.youtube.com/embed/Ei_ymBHaRjI?list=PLfgL-0qmPGeFrnzsyT4ZrooiG9wAfnbnd" frameborder="0" allowfullscreen></iframe>
 </div> 
-
-
-
-### What is Jenkins?
-> Jenkins is a self-contained, open source automation server which can be used to automate all sorts of tasks related to building, testing, and delivering or deploying software. Jenkins can be installed through native system packages, _Docker_, or even run standalone by any machine with a Java Runtime Environment (JRE) installed.. <cite>[Jenkins.io](https://jenkins.io/doc/)</cite>{: .small}
-
-### What is a Jenkins Agent / Slave?
-> Jenkins supports the "master/slave" mode, where the workload of building projects are delegated to multiple "slave" nodes, allowing a single Jenkins installation to host a large number of projects, or to provide different environments needed for builds/tests. This document describes this mode and how to use it.
-<cite>[Jenkins.io](https://https://wiki.jenkins.io/display/JENKINS/Distributed+builds)</cite>{: .small}
-
-### How to update?
-Even when Jenkins is updated regularly the need to update the agent is minimal. Updating the slave is pretty straightforward.
-
-* stop the jenkins agent - windows service
-* browse to `http://<jenkinsmaster:portnumber>/jnlpJars/slave.jar`
-* Copy over the downloaded slave.jar to the installation folder of the Jenkins Agent
-* start the jenkins agent
-
 
