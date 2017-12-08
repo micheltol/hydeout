@@ -5,9 +5,10 @@ excerpt_separator: "<!--more-->"
 categories:
   - jenkins, note to self
 tags:
-  - docker
-  - troubleshooting
-last_modified_at: 2017-11-29T10:25:52+02:00
+  - jenkins
+  - hints
+  - nodes
+last_modified_at: 2017-12-06T10:25:52+02:00
 ---
 
 This post is more like a note to self about updating the Jenkins Agent on Windows (but will proberly work on other OS's too.
