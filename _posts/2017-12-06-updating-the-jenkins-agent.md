@@ -18,7 +18,7 @@ This post is more like a note to self about updating the Jenkins Agent on Window
 
 ### What is a Jenkins Agent / Slave?
 > Jenkins supports the "master/slave" mode, where the workload of building projects are delegated to multiple "slave" nodes, allowing a single Jenkins installation to host a large number of projects, or to provide different environments needed for builds/tests. This document describes this mode and how to use it.
-<cite>[Jenkins.io](https://https://wiki.jenkins.io/display/JENKINS/Distributed+builds)</cite>{: .small}
+<cite>[Jenkins.io](https://wiki.jenkins.io/display/JENKINS/Distributed+builds)</cite>{: .small}
 
 ### How to update?
 Even when Jenkins is updated regularly the need to update the agent is minimal. Updating the slave is pretty straightforward.
