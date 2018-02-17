@@ -20,7 +20,6 @@ For me getting in shape means I need goals - having goals works the best for me 
 
 ![Sevilliersdam - Cape Town 2017]({{ site.baseurl }}/assets/images/20180215/sevilliersdam_sa.jpg "Sevilliersdam - Cape Town 2017")
 
-
 ### Spartan Trifecta
 
 The ultimate goal (December 31st 23:59:59) for this year is to earn 2 Spartan Trifecta's.
@@ -50,11 +49,11 @@ So what about your schedule? Good question! I am not sure yet. The dates below a
 
 Completing the first Trifecta shouldn't be a problem, getting the 2nd will take a  more planning. I am thinking of attending 2 of the following races.
 
-* 2nd June Campi Bisenzio Florence (Beast)     --
-* 16th June - Andorra Trifecta Weekend (Beast) +/-
-* 29 Sept - Berlin - (Super / Beast) ++
-* 6 Okt -  Circuit Paul Ricard Le Castellet (Super / Beast) __
-* 13 Okt -  Barcelona (Super / Beast) ++
+* 2nd June Campi Bisenzio Florence (Beast)
+* 16th June - Andorra Trifecta Weekend (Beast)
+* 29 Sept - Berlin - (Super / Beast)
+* 6 Okt -  Circuit Paul Ricard Le Castellet (Super / Beast)
+* 13 Okt -  Barcelona (Super / Beast)
 
 Going to Florence to race the +20km in June would be an amazing challenge physically and mentally. That would mean I will miss the Breakout Run which is always a lot of fun. Or what do you think of the Trifecta BEAST in Andorra? Running up and down the mountains will properly kill me. But when it is tough, you dig deeper (Shaun T).
 
