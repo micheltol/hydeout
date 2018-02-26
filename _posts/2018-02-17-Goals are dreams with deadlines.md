@@ -42,20 +42,20 @@ So what about your schedule? Good question! I am not sure yet. The dates below a
 | 3 March | Spartan - Sprint  | Mallorca  (ES) |+6 km     | Y         |
 | 7 April | Spartan - Sprint  | Kent  (UK)     |+6 km     | N         |
 | 5 May   | Toughest Malmo    | Malmo (SE)     |+/-8 km   | N         |
-| 2 June  | Breakout Run      | Schaijk (NL)   |14 km     | N         |
+| 2 June  | Breakout Run      | Schaijk (NL)   |14 km     | Y         |
 |23 June  | String Viking - Water | Nijmegen (NL)|19 km   | Y         |
 |30 June  | Spartan - Super   | Maastricht (NL)|+13 km    | Y         |
 | 1 Sept  | Spartan - Beast   | IJmuiden (NL)  |+20 km    | Y         |
 
 Completing the first Trifecta shouldn't be a problem, getting the 2nd will take a  more planning. I am thinking of attending 2 of the following races.
 
-* 2nd June Campi Bisenzio Florence (Beast)
+* ~~2nd June Campi Bisenzio Florence (Beast)~~
 * 16th June - Andorra Trifecta Weekend (Beast)
 * 29 Sept - Berlin - (Super / Beast)
 * 6 Okt -  Circuit Paul Ricard Le Castellet (Super / Beast)
 * 13 Okt -  Barcelona (Super / Beast)
 
-Going to Florence to race the +20km in June would be an amazing challenge physically and mentally. That would mean I will miss the Breakout Run which is always a lot of fun. Or what do you think of the Trifecta BEAST in Andorra? Running up and down the mountains will properly kill me. But when it is tough, you dig deeper (Shaun T).
+~~Going to Florence to race the +20km in June would be an amazing challenge physically and mentally. That would mean I will miss the Breakout Run which is always a lot of fun.~~ Or what do you think of the Trifecta BEAST in Andorra? Running up and down the mountains will properly kill me. But when it is tough, you dig deeper (Shaun T).
 
 to be continued! :)
 
