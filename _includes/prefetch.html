@@ -1,0 +1,12 @@
+{% capture pageheroimages %}{% for page in site.pages %}{% if page contains "heroimage" %}{{ page.heroimage }}{% if forloop.last == false %}|{% endif%}{% endif %}{% endfor %}{% endcapture %}
+{% capture postheroimages %}{% for post in site.posts %}{% if post contains "heroimage" %}{{ post.heroimage }}{% if forloop.last == false %}|{% endif%}{% endif %}{% endfor %}{% endcapture %}
+
+{% assign pageheroimagesarray = pageheroimages | split: '|' %}
+{% assign postheroimagesarray = postheroimages | split: '|' %}
+{% assign allimages = pageheroimagesarray | concat: postheroimagesarray %}
+{% assign images = pageheroimagesarray | uniq %}
+
+{% for image in images %}
+  <link rel="prefetch" href="{{ site.baseurl }}/assets/images/{{ image }}">
+{% endfor %}
+

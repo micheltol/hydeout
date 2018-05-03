@@ -1,42 +1,22 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:      kramdown
+highlighter:   rouge
+permalink:     none
+sass:
+    sass_dir:   _sass
 
-# Setup
-title:            Michel
-tagline:          ''
-description:      'father, C# enthusiast, remote worker, mudrunner'
-url:              http://www.micheltol.nl
-baseurl:          # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile','bundle/','docker-compose.yml','micheltol.gemspec','README.md','LICENSE.txt']
+include: ["_pages"]
 
-author:
-  name:           'Michel Tol'
-  url:            https://twitter.com/micheltol
-
-paginate:         5
-# paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
-
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-# Custom vars
-version:            3.4.1
-sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
-github:
-  repo:             https://github.com/micheltol
-
-disqus:
-  shortname:        'micheltol'      
-
-google_analytics:   'UA-4573188-6'
+applicationsettings:
+    title: MichelTol.nl
+    description: Michel Tol is een developer, vader, mud- & obstaclerunner. Michel betreedt de wereld met een pragmatisch can do/just do-it mentaliteit.
+    keywords: Obstacle running, mudrun, Spartan, Strong Viking, Blog, Developer, wordtraveler
+    author: Michel Tol
+    #hotjar: true
+    wordCountPerMinute: 130
+    thankyouurl: http://www.micheltol.nl/thank-you/
+    disqus:
+    shortname:        'micheltol'      
+    #google_analytics:   'UA-4573188-6'
+    

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Goals are dreams with deadlines!"
-excerpt_separator: "<!--more-->"
-categories:
-  - mudrunner
+summary: "De eerste weken van 2018 zijn voorbij gevlogen, mijn 5 maanden durende reis door Zuid Afrika zitten erop, reality is calling; summer bodies are made in winter! :)"
+image: '2018/02/20180217.jpg'
+category: obstaclerunning
 tags:
   - mud
   - races
@@ -12,50 +12,54 @@ tags:
   - spartan
 last_modified_at: 2018-02-17T14:10:52+01:00
 ---
-The title of the post is a quote from Diana Scharf and I just love it.
 
-The first weeks of 2018 flew by, my epic 5 month trip to [South Africa](https://www.wegosouth.nl) is over; life is calling I need to get back in shape :)
 
-For me getting in shape means I need goals - having goals works the best for me to achieve what I want. Not a simple todo-list but markers which I can celebrate when I reach them. It keeps me motivated and going, even if there are plenty of reasons not to push forward.
+De titel van deze post is een quote van Diana Scharf, en ik vind hem top! 
 
-![Sevilliersdam - Cape Town 2017]({{ site.baseurl }}/assets/images/20180215/sevilliersdam_sa.jpg "Sevilliersdam - Cape Town 2017")
+De eerste weken van 2018 zijn voorbij gevlogen, mijn 5 maanden durende reis door Zuid Afrika zitten erop, reality is calling; summer bodies are made in winter! Dus ik moet gaan opschieten!
+
+Om weer te gaan sporten heb ik doelen nodig; doelen met een deadline werken voor mij het best, dus geen simpel todo-lijstje maar daadwerkelijke deadlines. Elke keer als het wat tegenzit of het regent buiten, is er een 'stok' achter de deur om toch te gaan sporten. 
+
+![Sevilliersdam - Cape Town 2017]({{ site.baseurl }}/assets/images/posts/2018/02/sevilliersdam_sa.jpg "Sevilliersdam - Cape Town 2017")
 
 ### Spartan Trifecta
 
-The ultimate goal (December 31st 23:59:59) for this year is to earn 2 Spartan Trifecta's.
+Het einddoel van dit jaar  (December 31st 23:59:59) is om 2 Spartan Trifecta's te verdienen.
 
-#### What is the Spartan Trifecta? How do I earn it?
+#### What is een Trifecta? En hoe verdien je die?
 
 > A member of the Spartan Trifecta Tribe finishes one of each Spartan distance - Sprint, Super and Beast (or Ultra) - in a calendar year (January 1st - December 31st), anywhere in the world. You can earn multiple Trifectas in a single year. <cite>[Spartan.com](https://spartanrace.zendesk.com/hc/en-us/articles/202321438-What-is-the-Spartan-Trifecta-How-do-I-earn-it-)</cite>{: .small}
 
-To achieve this I have to skip some of my favorite Dutch obstacle runs and will properly run most of the races alone. Running a race alone can be challenge; there is nobody who can cheer you up when you are having a hard time, or just have a chat during a 4 kilometer walk/climb up and down the mountain with two 25 liter jerrycans.
+Simpel gezegd: Voor 1 Trifecta loop je 3 Spartan runs; een korte (>5 km), een middellange (>13 km) en een lange (>20 km) run in 1 kalenderjaar.  
 
-Besides the mental part of running a race on your own, your need to be able to motivate yourself to be in the best shape possible for every single race. Lucky for me I found 'my tribe' in my home city where my buddies are calling me out if I am skipping a bootcamp, boxing, power-pump or an off track running session.
+Om dit voor mij haalbaar te maken, moet ik sommige van mijn favoriete nederlandse runs dit jaar missen. In je eentje deelnemen aan een obstacle run is op zich al een uitdaging; er is niemand die blij is voor je als je een obstakel haalt en ook niemand die je door de moeilijke periodes heen helpt. Of om het minder dramatisch te laten klinken er is niemand om eens simpel tegenaan te kletsen bij een 4km lange hike de berg op. 
 
-<!--more-->
-#### The masterplan
+Naast deze mentale obstakels moet je ook gewoon fit zijn, ik vond mijn '[sporttribe](http://www.area0320.nl){:target="_blank"}' erg dichtbij namelijk bij de lokale [bootcampclub](http://www.grahampowersport.nl/){:target="_blank"} waar ik vanzelf commentaar krijg als ik niet op een training verschijn. Mijn trainingssessies bestaan uit bootcamp, boksen, power pump en hardlopen. Het blijft lastig om dit allemaal in een week te proppen en nog genoeg tijd over te houden voor familie en vrienden. Variatie is de key.
 
-So what about your schedule? Good question! I am not sure yet. The dates below are sort of confirmed but I am still looking for an Spartan Super and Ultra in the 4th quator of the year.
+#### De masterplan
 
-| Date    | Run               | Location       | Distance | Confirmed |
+Dus wat is de planning? Deze begint steeds vastere vormen aan te nemen: De meeste data in onderstaande tabel zijn bevestigd, ik zoek alleen nog een Spartan Super, Ultra eind van het jaar. ideeën hoor ik graag :)
+
+
+| Datum   | Run               | Locatie        | Afstand  | Bevestigd |
 |---------|:------------------|:---------------|---------:|-----------|
-| 3 March | Spartan - Sprint  | Mallorca  (ES) |+6 km     | Y         |
-| 7 April | Spartan - Sprint  | Kent  (UK)     |+6 km     | N         |
-| 5 May   | Toughest Malmo    | Malmo (SE)     |+/-8 km   | N         |
-| 3 June  | Breakout Run      | Schaijk (NL)   |14 km     | Y         |
-|23 June  | String Viking - Water | Nijmegen (NL)|19 km   | Y         |
-|30 June  | Spartan - Super   | Maastricht (NL)|+13 km    | Y         |
+| 3 Maart | Spartan - Sprint  | Mallorca  (ES) |+6 km     | Y         |
+| 7 April | Spartan - Super   | Kent  (UK)     |+13 km    | Y         |
+| 8 April | Spartan - Sprint  | Kent  (UK)     |+6 km     | Y         |
+| 5 Mei   | Toughest Malmö    | Malmö (SE)     |+/-8 km   | Y         |
+| 3 Juni  | Breakout Run      | Schaijk (NL)   |14 km     | Y         |
+|23 Juni  | Strong Viking - Water | Nijmegen (NL)|19 km   | Y         |
+|30 Juni  | Spartan - Super   | Maastricht (NL)|+13 km    | Y         |
 | 1 Sept  | Spartan - Beast   | IJmuiden (NL)  |+20 km    | Y         |
 
-Completing the first Trifecta shouldn't be a problem, getting the 2nd will take a  more planning. I am thinking of attending 2 of the following races.
+Het volbrengen van de eerste Trifecta zou geen probleem mogen worden; de 2de wordt iets meer plannen. Ik zit te denken om 2 van onderstaande races te boeken. 
 
-* ~~2nd June Campi Bisenzio Florence (Beast)~~
-* 16th June - Andorra Trifecta Weekend (Beast)
+
+* ~~2nd juni Campi Bisenzio Florence (Beast)~~
+* 16th juni - Andorra Trifecta Weekend (Beast)
 * 29 Sept - Berlin - (Super / Beast)
 * 6 Okt -  Circuit Paul Ricard Le Castellet (Super / Beast)
 * 13 Okt -  Barcelona (Super / Beast)
-
-~~Going to Florence to race the +20km in June would be an amazing challenge physically and mentally. That would mean I will miss the Breakout Run which is always a lot of fun.~~ Or what do you think of the Trifecta BEAST in Andorra? Running up and down the mountains will properly kill me. But when it is tough, you dig deeper (Shaun T).
 
 to be continued! :)
 

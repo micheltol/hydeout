@@ -1,0 +1,47 @@
+<div id="fh5co-header">
+        <header id="fh5co-header-section">
+            <div class="container">
+                <div class="nav-header">
+                    <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle">
+                        <i></i>
+                    </a>
+                    <h1 id="fh5co-logo">
+                        <a href="{{ site.baseurl }}/">Michel
+                            <span>Tol</span>
+                        </a>
+                    </h1>
+                    <!-- START #fh5co-menu-wrap -->
+                    {% include menu.html %}
+                </div>
+            </div>
+        </header>
+    </div>
+    <!-- end:fh5co-header -->
+    <div class="fh5co-hero">
+        <div class="fh5co-overlay"></div>
+        {% if page.heroimage %}
+            <div class="fh5co-cover" style="background-image: url({{ site.baseurl }}/assets/images/{{ page.heroimage }}); background-position:center;">
+
+        {% else %}
+            <div class="fh5co-cover" style="background-image: url({{ site.baseurl }}/assets/images/sportograf-113724564.jpg); background-position:center;">
+
+        {% endif %}
+            <div class="desc animate-box">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <h3>
+                                <span>
+                                    <b>Michel</b>, #vader, #CsharpDev, </br>#remoteworker &amp;
+                                    <b>#mudrunner</b>
+                                </span>
+                            </h3>
+                            <span>
+                                <a class="btn btn-primary" href="#footer">Contact</a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

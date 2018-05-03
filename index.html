@@ -1,4 +1,93 @@
+--- 
+title: Home 
+layout: default 
+heroimage: sportograf-113724564.jpg
 ---
-layout: index
-title: Home
----
+		<!-- end: fh5co-parallax -->
+		<div id="fh5co-programs-section">
+			<!-- WAT IK DOE? - Ik leef, ik reis, ik werk, ik geniet! -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="heading-section text-center animate-box">
+							<h2>Wat ik doe?</h2>
+							<p>Ik leef, ik reis, ik werk, ik geniet!</p>
+						</div>
+					</div>
+				</div>
+				<div class="row text-center">
+					<div class="col-md-4 col-sm-6">
+						<div class="program animate-box">
+							<img src="{{ site.baseurl }}/assets/images/C_sharp.svg" alt="I write code!">
+							<h3>Software developer</h3>
+							<p>Van C# tot Angular, van docker naar SQL Server. Met ruim 17 jaar ervaring als software developer met een 
+								zeer pragmatische houding en een gezonde can do/just do-it mentaliteit help ik bedrijven om complexe of 
+								moeizaam lopende projecten IT projecten succesvol af te ronden. 
+							</p>
+							<span>
+								<a href="#footer" class="btn btn-default">Neem contact op</a>
+							</span>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="program animate-box">
+							<img src="{{ site.baseurl }}/assets/images/binoculars.svg" alt="Ontdekken">
+							<h3>Ontdekken</h3>
+							<p>Ik ben altijd op zoek naar verandering, of het nu 5 maanden remote werken is vanuit Zuid Afrika, Europa doorreizen 
+								voor obstacle runs of kijken hoe je lichaam reageert op verandering van levensstijl. Zelf leuke dingen doen maakt je gelukkiger dan dingen liken op Facebook ;) </p>
+							<span>
+								<a href="#nieuws" class="btn btn-default">Laatste blogposts!</a>
+							</span>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6">
+						<div class="program animate-box">
+							<img src="{{ site.baseurl }}/assets/images/ocr.svg" alt="Spartan Race logo - &copy; by Spartan">
+							<h3>Obstacle running</h3>
+							<p>Obstacle running ook wel een obstakelrun genoemd; een combinatie van kracht, uithoudingsvermogen en zo hard mogelijk door de blubber. I love it! Het jaar 2018 staat in het teken van de Spartanraces. 12 races door Europa. Op jacht naar 3 Trifecta. 3x5km, 3x13km & 3x20km. Bam!</p>
+							<span>
+								<a href="http://www.AREA0320.nl" class="btn btn-default" target="_blank">Join the Tribe! ;)</a>
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- commit to be fit -->
+		<div class="fh5co-parallax" style="background-image: url({{ site.baseurl }}/assets/images/sevilliersdam_sa.jpg); background-position:center;">
+				<div class="overlay"></div>
+				<div class="container">
+				</div>
+		</div>
+
+		<!-- blog & calendar section -->
+		<div id="fh5co-blog-section">
+			<div class="container" id="nieuws">
+				<div class="row">
+					<!-- recent blogposts -->
+					{% include recentblogposts.html %}
+
+					{% include upcomingevents.html %}
+					<!-- upcoming events -->
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="fh5co-blog animate-box">
+								<div class="desc desc2">
+										<a href="/Blogs" class="btn btn-default" style="width: 100%">Meer blogposts</a>
+								</div>
+						</div>
+					</div>
+					<div class="col-md-6">
+						    <div class="fh5co-blog animate-box">
+									<div class="desc desc2">
+										 <a href="/events" class="btn btn-default" style="width: 100%">Alle evenementen</a>
+									</div>
+								</div>
+					</div>					
+				</div>
+
+
+			</div>
+		</div>
