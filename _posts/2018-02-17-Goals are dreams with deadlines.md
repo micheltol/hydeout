@@ -40,9 +40,10 @@ So what about your schedule? Good question! I am not sure yet. The dates below a
 | Date    | Run               | Location       | Distance | Confirmed |
 |---------|:------------------|:---------------|---------:|-----------|
 | 3 March | Spartan - Sprint  | Mallorca  (ES) |+6 km     | Y         |
-| 7 April | Spartan - Sprint  | Kent  (UK)     |+6 km     | N         |
-| 5 May   | Toughest Malmo    | Malmo (SE)     |+/-8 km   | N         |
-| 2 June  | Breakout Run      | Schaijk (NL)   |14 km     | Y         |
+| 7 April | Spartan - Super   | Kent  (UK)     |+13 km    | Y         |
+| 8 April | Spartan - Sprint  | Kent  (UK)     |+6 km     | Y         |
+| 5 May   | Toughest Malmo    | Malmo (SE)     |+/-8 km   | Y         |
+| 3 June  | Breakout Run      | Schaijk (NL)   |14 km     | Y         |
 |23 June  | String Viking - Water | Nijmegen (NL)|19 km   | Y         |
 |30 June  | Spartan - Super   | Maastricht (NL)|+13 km    | Y         |
 | 1 Sept  | Spartan - Beast   | IJmuiden (NL)  |+20 km    | Y         |
