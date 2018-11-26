@@ -2,7 +2,7 @@ version: '3'
 services:
   web:
     image: jekyll/builder:latest
-    command: jekyll serve --watch --force_polling --trace
+    command: jekyll serve --watch --force_polling --trace --incremental
     ports:
       - 4000:4000
       - 35729:35729

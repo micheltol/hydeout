@@ -24,5 +24,4 @@ Tickets zijn geboekt (nu maar hopen op geen stroomstoring), [het
 Elite Plaza Hotel Malmö geregeld](https://www.booking.com/hotel/se/elite-plaza-hotell-malmo.nl.html?aid=1309061){:target="_blank"} en de Toughest race tickets besteld en betaald. 
 
 
-
-![Sevilliersdam - Cape Town 2017]({{ site.baseurl }}/assets/images/posts/2018/04/Toughest.jpg "Toughest - 2018!")
+![Toughest Logo]({{ site.baseurl }}/assets/images/posts/2018/04/Toughest.jpg "Toughest - 2018!")
