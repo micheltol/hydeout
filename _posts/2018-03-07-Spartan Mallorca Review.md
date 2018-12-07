@@ -2,7 +2,7 @@
 layout: post
 title: "Spartan Mallorca Weekend"
 image: '2018/03/20180307_1.jpg'
-summary: Afgelopen weekend was het zo ver; de eerste Spartan race voor het seizoen.
+summary: Afgelopen weekend was het zo ver; de eerste Spartan race van het seizoen.
 category: obstaclerunning
 tags:
   - mud
@@ -13,7 +13,7 @@ tags:
   - mallorca
 last_modified_at: 2018-03-07T11:57:00+01:00
 ---
- Afgelopen weekend was het zo ver; de eerste Spartan race voor het seizoen op Mallorca!!. We hadden besloten om wat extra dagen te blijven om van het eiland, het weer en het eten te genieten.
+ Afgelopen weekend was het zo ver; de eerste Spartan race van het seizoen op Mallorca!!. We hadden besloten om wat extra dagen te blijven om van het eiland, het weer en het eten te genieten.
 
  Op donderdagochtend vroeg uit de veren om het vliegtuig te halen. Waar het tijdens het vertrek in Nederland -9°C was, kwamen we aan op Mallorca bij +18°C. Dat voelt zalig! 
 

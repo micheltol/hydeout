@@ -35,4 +35,4 @@ Het schoon blijven is van korte duur, het volgende obstacle zijn de mudtrenches,
 
 Maastricht komt nu echt in zicht, maar er zijn nog wat obstakels te nemen; pancake carry, slackline (ik haat die dingen), de mutli-rig en nog wat muurtjes. Op nog geen kilometer van de finish slaat het 'noodlot toe', Marcel krijgt kramp en we krijgen het bijna niet weg. Langzaam dribbelend gaan we richting het finish gebied waar ons een geheugenspel, speerwerpen (30 burpees) en een metershoge muur te wachten staat.  
 
-Eigenlijk komen we er soepel door heen, na de finish worden we gekoeld door de EHBO met sponsjes water en krijgen we wat te eten. Met een gevoel 'wat is Nederland toch mooi' sluit ik SPartan Maastricht af. Wat een heerlijke run en veel gezellige & gastvrije mensen! Volgend jaar weer?
+Eigenlijk komen we er soepel door heen, na de finish worden we gekoeld door de EHBO met sponsjes water en krijgen we wat te eten. Met een gevoel 'wat is Nederland toch mooi' sluit ik Spartan Maastricht af. Wat een heerlijke run en veel gezellige & gastvrije mensen! Volgend jaar weer?
