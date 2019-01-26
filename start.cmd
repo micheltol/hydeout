@@ -1,0 +1,1 @@
+call docker run --volume="%cd%:/srv/jekyll" --volume="%cd%\bundle:/usr/local/bundle" -it -p 4000:4000 jekyll/builder:latest jekyll serve --watch --force_polling
