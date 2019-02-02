@@ -5,7 +5,7 @@ permalink:     none
 sass:
     sass_dir:   _sass
 
-exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile','bundle/','docker-compose.yml','micheltol.gemspec','README.md','LICENSE.txt']
+exclude: ['README.markdown', 'Gemfile.lock', 'Gemfile','bundle/','docker-compose.yml','micheltol.gemspec','README.md','LICENSE.txt', 'start.cmd']
 include: ["_pages"]
 
 applicationsettings:
