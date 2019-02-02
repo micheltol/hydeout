@@ -17,7 +17,7 @@ last_modified_at: 2019-01-31T16:29:00+01:00
 ---
 Na gisteren de Super gelopen te hebben doe ik vandaag de sprint!
 
-Vandaag een rustige start; mijn startschit klinkt pas om 10:45. Een rustige ochtend waarbij er alvast voorbereidingen worden getroffen om in de middag te vertrekken. De orginele planning was om maandagochtend vroeg richting huis te gaan; maar aangezien de weerberichten veel sneeuw voorspellen van zondag op maandag vertrekken we vandaag na de race.
+Vandaag een rustige start; mijn startschot klinkt pas om 10:45. Een rustige ochtend waarbij er alvast voorbereidingen worden getroffen om in de middag te vertrekken. De orginele planning was om maandagochtend vroeg richting huis te gaan; maar aangezien de weerberichten veel sneeuw voorspellen van zondag op maandag vertrekken we vandaag na de race.
 
 Om 10:20 vertrek ik naar het startvak onderweg nog even stoppen bij de tassenafgifte. Alles loopt gesmeerd, wat mij wel opvalt is de hoeveelheid sneeuw die vanacht is gevallen. Ik denk dat er ongeveer 10 a 15 centimeter bij is gekomen. Tevens sneeuwt het vandaag ook ligt en hangt er lage bewolking in het dal.
 `
